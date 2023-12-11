@@ -1,2 +1,2 @@
 # MTCS-102-Advanced-Computer-Architecture
-This repository contains all the lab works and assignments done as part of Advanced Computer Architecture course.
+This repository contains all the lab works and assignments done as part of Advanced Computer Architecture course. The trace files used in the assignment can be found [here](http://www.agner.org/optimize/instruction_tables.pdf). Another lab was on demonstration of dynamic voltage and frequency scaling. You can find my blog post on the same [here](https://saigopalm.wordpress.com/2023/08/16/demonstration-of-dynamic-voltage-frequency-scaling/). 
